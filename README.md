@@ -7,9 +7,9 @@ This lab involved deploying and administering a Windows Server environment with 
 
 The project focused on practical administration tasks including Active Directory, Group Policy, DNS, DHCP, SMB file sharing, NTFS permissions, and user account management.
 
-**LAB ENVIROMENT**
+**LAB ENVIROMENT**:
 Server-             Windows Server,
-Server Name-        Server1,
+Server Name-        Sv02,
 Client-             Windows 10 Pro,
 Client Name-        CLL01,
 Virtualization-     Oracle VirtualBox,
