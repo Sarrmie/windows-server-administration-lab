@@ -8,14 +8,12 @@ This lab involved deploying and administering a Windows Server environment with 
 The project focused on practical administration tasks including Active Directory, Group Policy, DNS, DHCP, SMB file sharing, NTFS permissions, and user account management.
 
 **LAB ENVIROMENT**
-
-**Component        Details**
-Server             Windows Server,
-Server Name        Server1,
-Client             Windows 10 Pro,
-Client Name        CLL01,
-Virtualization     Oracle VirtualBox,
-Domain              company.local,
+Server-             Windows Server,
+Server Name-        Server1,
+Client-             Windows 10 Pro,
+Client Name-        CLL01,
+Virtualization-     Oracle VirtualBox,
+Domain-              company.local,
 
 
 **KEY TASKS COMPLETED**
@@ -36,7 +34,7 @@ Domain              company.local,
 **ACCESS CONTROL**
 The CompanyData file share was configured using role-based permissions.
 
-**Security Group    Share Access**
+**Security Groups**   
 IT-Admins             Full,
 Operations-Users      Change,
 HR-Users              Read,
