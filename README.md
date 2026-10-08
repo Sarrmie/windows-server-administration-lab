@@ -10,12 +10,12 @@ The project focused on practical administration tasks including Active Directory
 **LAB ENVIROMENT**
 
 **Component        Details**
-Server             Windows Server
-Server Name        Server1
-Client             Windows 10 Pro
-Client Name        CLL01
-Virtualization     Oracle VirtualBox
-Domain              company.local
+Server             Windows Server,
+Server Name        Server1,
+Client             Windows 10 Pro,
+Client Name        CLL01,
+Virtualization     Oracle VirtualBox,
+Domain              company.local,
 
 
 **KEY TASKS COMPLETED**
@@ -37,10 +37,10 @@ Domain              company.local
 The CompanyData file share was configured using role-based permissions.
 
 **Security Group    Share Access**
-IT-Admins             Full
-Operations-Users      Change
-HR-Users              Read
-Finance-Users         Read
+IT-Admins             Full,
+Operations-Users      Change,
+HR-Users              Read,
+Finance-Users         Read,
 Access was tested using domain accounts to verify that users could perform only the actions permitted by their assigned roles.
 
 **TESTING & VERIFICATION**
