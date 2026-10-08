@@ -71,4 +71,5 @@ All major tests produced the expected results.
 **DOCUMENTATION**
 Detailed project documentation, including configuration steps and screenshots, is available in the project PDF.
 
-Documentation: documentation/Windows-Server-Administration-Lab.pdf
+Documentation: [documentation/Windows-Server-Administration-Lab.pdf](https://github.com/Sarrmie/windows-server-administration-lab/blob/main/WINDOWS%20SERVER%20ADMINISTRATION.pdf)
+
